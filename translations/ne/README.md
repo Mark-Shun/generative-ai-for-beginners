@@ -1,12 +1,168 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "d728344bb154722a868f154d06fc9786",
-  "translation_date": "2025-08-20T23:34:09+00:00",
+  "original_hash": "d90bfd4a5d8b43f1d616dbc6e9dc8342",
+  "translation_date": "2025-11-12T08:18:53+00:00",
   "source_file": "README.md",
   "language_code": "ne"
 }
 -->
+![सुरुवातकर्ताहरूका लागि जेनेरेटिभ एआई](../../translated_images/repo-thumbnailv4-fixed.11f1ce6a85d01461c33c11943bb61f2b6d6dcce3a3b25cd27e627031f41f8e00.ne.png)
 
+### २१ पाठहरू जसले जेनेरेटिभ एआई एप्लिकेसनहरू बनाउन सुरु गर्न आवश्यक सबै कुरा सिकाउँछ
 
+[![GitHub लाइसेन्स](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub योगदानकर्ताहरू](https://img.shields.io/github/contributors/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub समस्याहरू](https://img.shields.io/github/issues/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub पुल-रिक्वेस्टहरू](https://img.shields.io/github/issues-pr/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PRs स्वागत छ](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
+[![GitHub हेर्नेहरू](https://img.shields.io/github/watchers/microsoft/Generative-AI-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub फोर्कहरू](https://img.shields.io/github/forks/microsoft/Generative-AI-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub ताराहरू](https://img.shields.io/github/stars/microsoft/Generative-AI-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/stargazers/?WT.mc_id=academic-105485-koreyst)
+
+[![](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)
+
+### 🌐 बहुभाषिक समर्थन
+
+#### GitHub Action मार्फत समर्थित (स्वचालित र सधैं अद्यावधिक)
+
+[अरबी](../ar/README.md) | [बंगाली](../bn/README.md) | [बुल्गेरियन](../bg/README.md) | [बर्मेली (म्यानमार)](../my/README.md) | [चिनियाँ (सरलीकृत)](../zh/README.md) | [चिनियाँ (पारम्परिक, हङकङ)](../hk/README.md) | [चिनियाँ (पारम्परिक, मकाउ)](../mo/README.md) | [चिनियाँ (पारम्परिक, ताइवान)](../tw/README.md) | [क्रोएसियन](../hr/README.md) | [चेक](../cs/README.md) | [डेनिश](../da/README.md) | [डच](../nl/README.md) | [एस्टोनियन](../et/README.md) | [फिनिश](../fi/README.md) | [फ्रेन्च](../fr/README.md) | [जर्मन](../de/README.md) | [ग्रीक](../el/README.md) | [हिब्रू](../he/README.md) | [हिन्दी](../hi/README.md) | [हंगेरीयन](../hu/README.md) | [इन्डोनेसियन](../id/README.md) | [इटालियन](../it/README.md) | [जापानी](../ja/README.md) | [कोरियन](../ko/README.md) | [लिथुआनियन](../lt/README.md) | [मलय](../ms/README.md) | [मराठी](../mr/README.md) | [नेपाली](./README.md) | [नाइजेरियन पिड्जिन](../pcm/README.md) | [नर्वेजियन](../no/README.md) | [फारसी (फारसी)](../fa/README.md) | [पोलिश](../pl/README.md) | [पोर्चुगिज (ब्राजिल)](../br/README.md) | [पोर्चुगिज (पोर्चुगल)](../pt/README.md) | [पञ्जाबी (गुरमुखी)](../pa/README.md) | [रोमानियन](../ro/README.md) | [रुसी](../ru/README.md) | [सर्बियन (सिरिलिक)](../sr/README.md) | [स्लोभाक](../sk/README.md) | [स्लोभेनियन](../sl/README.md) | [स्पेनिश](../es/README.md) | [स्वाहिली](../sw/README.md) | [स्विडिश](../sv/README.md) | [टागालोग (फिलिपिनो)](../tl/README.md) | [तमिल](../ta/README.md) | [थाई](../th/README.md) | [टर्किश](../tr/README.md) | [युक्रेनी](../uk/README.md) | [उर्दू](../ur/README.md) | [भियतनामी](../vi/README.md)
+
+# सुरुवातकर्ताहरूका लागि जेनेरेटिभ एआई (संस्करण ३) - एक पाठ्यक्रम
+
+Microsoft Cloud Advocates द्वारा तयार गरिएको २१ पाठहरूको व्यापक पाठ्यक्रमको साथ जेनेरेटिभ एआई एप्लिकेसनहरू निर्माण गर्ने आधारभूत कुराहरू सिक्नुहोस्।
+
+## 🌱 सुरु गरौं
+
+यस पाठ्यक्रममा २१ पाठहरू छन्। प्रत्येक पाठले आफ्नो विषय समेट्छ, त्यसैले तपाईं जहाँबाट पनि सुरु गर्न सक्नुहुन्छ!
+
+पाठहरू "Learn" पाठहरू (जेनेरेटिभ एआई अवधारणा व्याख्या गर्ने) वा "Build" पाठहरू (अवधारणा र **Python** र **TypeScript** मा कोड उदाहरणहरू व्याख्या गर्ने) भनेर चिन्हित गरिएका छन्।
+
+.NET विकासकर्ताहरूका लागि [सुरुवातकर्ताहरूका लागि जेनेरेटिभ एआई (.NET संस्करण)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst) हेर्नुहोस्!
+
+प्रत्येक पाठमा "Keep Learning" खण्ड पनि समावेश छ, जसले थप सिकाइ उपकरणहरू प्रदान गर्दछ।
+
+## तपाईंलाई के चाहिन्छ
+### यस पाठ्यक्रमको कोड चलाउन, तपाईंले यी मध्ये कुनै पनि प्रयोग गर्न सक्नुहुन्छ: 
+ - [Azure OpenAI सेवा](https://aka.ms/genai-beginners/azure-open-ai?WT.mc_id=academic-105485-koreyst) - **पाठहरू:** "aoai-assignment"
+ - [GitHub Marketplace मोडेल क्याटलग](https://aka.ms/genai-beginners/gh-models?WT.mc_id=academic-105485-koreyst) - **पाठहरू:** "githubmodels"
+ - [OpenAI API](https://aka.ms/genai-beginners/open-ai?WT.mc_id=academic-105485-koreyst) - **पाठहरू:** "oai-assignment" 
+   
+- Python वा TypeScript को आधारभूत ज्ञान उपयोगी हुन्छ - \*पूर्ण सुरुवातकर्ताहरूका लागि यी [Python](https://aka.ms/genai-beginners/python?WT.mc_id=academic-105485-koreyst) र [TypeScript](https://aka.ms/genai-beginners/typescript?WT.mc_id=academic-105485-koreyst) पाठ्यक्रमहरू हेर्नुहोस्
+- [यो सम्पूर्ण रिपोजिटरी फोर्क गर्न](https://aka.ms/genai-beginners/github?WT.mc_id=academic-105485-koreyst) GitHub खाता आवश्यक छ
+
+हामीले तपाईंको विकास वातावरण सेटअप गर्न मद्दत गर्न **[पाठ्यक्रम सेटअप](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)** पाठ तयार गरेका छौं।
+
+यो रिपोजिटरीलाई पछि सजिलै फेला पार्न [ताराको चिन्ह (🌟)](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) लगाउन नबिर्सनुहोस्।
+
+## 🧠 तैनाथ गर्न तयार?
+
+यदि तपाईं थप उन्नत कोड नमूनाहरू खोज्दै हुनुहुन्छ भने, हाम्रो [जेनेरेटिभ एआई कोड नमूनाहरूको संग्रह](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) हेर्नुहोस्, जुन **Python** र **TypeScript** मा उपलब्ध छ।
+
+## 🗣️ अन्य सिक्नेहरूसँग भेट्नुहोस्, सहयोग प्राप्त गर्नुहोस्
+
+हाम्रो [औपचारिक Azure AI Foundry Discord सर्भर](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst) मा सामेल हुनुहोस्, जहाँ तपाईं यस पाठ्यक्रम लिने अन्य सिक्नेहरूसँग भेट्न र नेटवर्क गर्न सक्नुहुन्छ।
+
+हाम्रो [Azure AI Foundry Developer Forum](https://aka.ms/azureaifoundry/forum) मा प्रश्नहरू सोध्नुहोस् वा उत्पादन प्रतिक्रिया साझा गर्नुहोस्।
+
+## 🚀 स्टार्टअप निर्माण गर्दै हुनुहुन्छ?
+
+[Microsoft for Startups](https://www.microsoft.com/startups) मा जानुहोस् र आजै Azure क्रेडिटको साथ निर्माण सुरु गर्ने तरिका पत्ता लगाउनुहोस्।
+
+## 🙏 सहयोग गर्न चाहनुहुन्छ?
+
+के तपाईंसँग सुझावहरू छन् वा वर्तनी वा कोड त्रुटिहरू फेला पार्नुभएको छ? [समस्या उठाउनुहोस्](https://github.com/microsoft/generative-ai-for-beginners/issues?WT.mc_id=academic-105485-koreyst) वा [पुल अनुरोध सिर्जना गर्नुहोस्](https://github.com/microsoft/generative-ai-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
+
+## 📂 प्रत्येक पाठमा समावेश छ:
+
+- विषयको छोटो भिडियो परिचय
+- README मा रहेको लिखित पाठ
+- Azure OpenAI र OpenAI API समर्थन गर्ने Python र TypeScript कोड नमूनाहरू
+- थप सिकाइका लागि अतिरिक्त स्रोतहरूको लिङ्क
+
+## 🗃️ पाठहरू
+
+| #   | **पाठ लिङ्क**                                                                                                                              | **विवरण**                                                                                 | **भिडियो**                                                                   | **थप सिकाइ**                                                             |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 00  | [पाठ्यक्रम सेटअप](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)                                                                 | **सिक्नुहोस्:** तपाईंको विकास वातावरण कसरी सेटअप गर्ने                                            | चाँडै आउने भिडियो                                                                 | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 01  | [जेनेरेटिभ एआई र LLMs को परिचय](./01-introduction-to-genai/README.md?WT.mc_id=academic-105485-koreyst)                              | **सिक्नुहोस्:** जेनेरेटिभ एआई के हो र ठूला भाषा मोडेलहरू (LLMs) कसरी काम गर्छन्।       | [भिडियो](https://aka.ms/gen-ai-lesson-1-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 02  | [विभिन्न LLMs अन्वेषण र तुलना](./02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst)             | **सिक्नुहोस्:** तपाईंको प्रयोग केसका लागि सही मोडेल कसरी चयन गर्ने                                      | [भिडियो](https://aka.ms/gen-ai-lesson2-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 03  | [जिम्मेवार रूपमा जेनेरेटिभ एआई प्रयोग गर्दै](./03-using-generative-ai-responsibly/README.md?WT.mc_id=academic-105485-koreyst)                           | **सिक्नुहोस्:** जिम्मेवार रूपमा जेनेरेटिभ एआई एप्लिकेसनहरू कसरी निर्माण गर्ने                                  | [भिडियो](https://aka.ms/gen-ai-lesson3-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 04  | [प्रम्प्ट इन्जिनियरिङका आधारभूत कुराहरू बुझ्दै](./04-prompt-engineering-fundamentals/README.md?WT.mc_id=academic-105485-koreyst)             | **सिक्नुहोस्:** प्रम्प्ट इन्जिनियरिङका उत्कृष्ट अभ्यासहरूमा व्यावहारिक ज्ञान                                           | [भिडियो](https://aka.ms/gen-ai-lesson4-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 05  | [उन्नत प्रम्प्टहरू सिर्जना गर्दै](./05-advanced-prompts/README.md?WT.mc_id=academic-105485-koreyst)                                                | **सिक्नुहोस्:** प्रम्प्ट इन्जिनियरिङ प्रविधिहरू लागू गर्ने जसले तपाईंको प्रम्प्टहरूको नतिजा सुधार गर्दछ। | [भिडियो](https://aka.ms/gen-ai-lesson5-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 06  | [पाठ उत्पादन अनुप्रयोगहरू निर्माण गर्दै](./06-text-generation-apps/README.md?WT.mc_id=academic-105485-koreyst)                                | **निर्माण गर्नुहोस्:** Azure OpenAI / OpenAI API प्रयोग गरेर पाठ उत्पादन अनुप्रयोग                                | [भिडियो](https://aka.ms/gen-ai-lesson6-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 07  | [च्याट अनुप्रयोगहरू निर्माण गर्दै](./07-building-chat-applications/README.md?WT.mc_id=academic-105485-koreyst)                                     | **निर्माण गर्नुहोस्:** च्याट अनुप्रयोगहरू कुशलतापूर्वक निर्माण र एकीकृत गर्ने प्रविधिहरू।               | [भिडियो](https://aka.ms/gen-ai-lessons7-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 08  | [खोज अनुप्रयोगहरू निर्माण गर्दै भेक्टर डाटाबेस](./08-building-search-applications/README.md?WT.mc_id=academic-105485-koreyst)                        | **निर्माण गर्नुहोस्:** डाटा खोज गर्न Embeddings प्रयोग गर्ने खोज अनुप्रयोग।                        | [भिडियो](https://aka.ms/gen-ai-lesson8-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 09  | [छवि उत्पादन अनुप्रयोगहरू निर्माण गर्दै](./09-building-image-applications/README.md?WT.mc_id=academic-105485-koreyst)                        | **निर्माण गर्नुहोस्:** छवि उत्पादन अनुप्रयोग                                                       | [भिडियो](https://aka.ms/gen-ai-lesson9-gh?WT.mc_id=academic-105485-koreyst)  | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 10  | [कम कोड AI अनुप्रयोगहरू निर्माण गर्दै](./10-building-low-code-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                       | **निर्माण गर्नुहोस्:** कम कोड उपकरणहरू प्रयोग गरेर एक जनरेटिभ AI अनुप्रयोग                                     | [भिडियो](https://aka.ms/gen-ai-lesson10-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 11  | [बाह्य अनुप्रयोगहरूलाई फङ्सन कलिङसँग एकीकृत गर्दै](./11-integrating-with-function-calling/README.md?WT.mc_id=academic-105485-koreyst) | **निर्माण गर्नुहोस्:** फङ्सन कलिङ के हो र अनुप्रयोगहरूको लागि यसको प्रयोग केसहरू                          | [भिडियो](https://aka.ms/gen-ai-lesson11-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 12  | [AI अनुप्रयोगहरूको लागि UX डिजाइन गर्दै](./12-designing-ux-for-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                         | **सिक्नुहोस्:** जनरेटिभ AI अनुप्रयोगहरू विकास गर्दा UX डिजाइन सिद्धान्तहरू लागू गर्ने तरिका         | [भिडियो](https://aka.ms/gen-ai-lesson12-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 13  | [तपाईंको जनरेटिभ AI अनुप्रयोगहरू सुरक्षित गर्दै](./13-securing-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)                         | **सिक्नुहोस्:** AI प्रणालीहरूमा खतरा र जोखिमहरू र यी प्रणालीहरू सुरक्षित गर्ने विधिहरू।             | [भिडियो](https://aka.ms/gen-ai-lesson13-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 14  | [जनरेटिभ AI अनुप्रयोग जीवनचक्र](./14-the-generative-ai-application-lifecycle/README.md?WT.mc_id=academic-105485-koreyst)           | **सिक्नुहोस्:** LLM जीवनचक्र र LLMOps व्यवस्थापन गर्न उपकरणहरू र मेट्रिक्स                         | [भिडियो](https://aka.ms/gen-ai-lesson14-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 15  | [रिट्रिभल अग्मेन्टेड जेनेरेसन (RAG) र भेक्टर डाटाबेसहरू](./15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-koreyst)        | **निर्माण गर्नुहोस्:** भेक्टर डाटाबेसबाट Embeddings पुनः प्राप्त गर्न RAG फ्रेमवर्क प्रयोग गर्ने अनुप्रयोग  | [भिडियो](https://aka.ms/gen-ai-lesson15-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 16  | [ओपन सोर्स मोडेलहरू र Hugging Face](./16-open-source-models/README.md?WT.mc_id=academic-105485-koreyst)                                    | **निर्माण गर्नुहोस्:** Hugging Face मा उपलब्ध ओपन सोर्स मोडेलहरू प्रयोग गरेर अनुप्रयोग                    | [भिडियो](https://aka.ms/gen-ai-lesson16-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 17  | [AI एजेन्टहरू](./17-ai-agents/README.md?WT.mc_id=academic-105485-koreyst)                                                                       | **निर्माण गर्नुहोस्:** AI एजेन्ट फ्रेमवर्क प्रयोग गरेर अनुप्रयोग                                           | [भिडियो](https://aka.ms/gen-ai-lesson17-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 18  | [LLMs फाइन-ट्यून गर्दै](./18-fine-tuning/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **सिक्नुहोस्:** LLMs फाइन-ट्यून गर्ने के, किन र कसरी                                            | [भिडियो](https://aka.ms/gen-ai-lesson18-gh?WT.mc_id=academic-105485-koreyst) | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 19  | [SLMs सँग निर्माण गर्दै](./19-slm/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **सिक्नुहोस्:** सानो भाषा मोडेलहरू प्रयोग गरेर निर्माण गर्दा हुने फाइदाहरू                                            | भिडियो चाँडै आउनेछ | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 20  | [Mistral मोडेलहरू सँग निर्माण गर्दै](./20-mistral/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **सिक्नुहोस्:** Mistral परिवार मोडेलहरूको विशेषताहरू र भिन्नताहरू                                           | भिडियो चाँडै आउनेछ | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+| 21  | [Meta मोडेलहरू सँग निर्माण गर्दै](./21-meta/README.md?WT.mc_id=academic-105485-koreyst)                                                              | **सिक्नुहोस्:** Meta परिवार मोडेलहरूको विशेषताहरू र भिन्नताहरू                                           | भिडियो चाँडै आउनेछ | [थप जान्नुहोस्](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) |
+
+### 🌟 विशेष धन्यवाद
+
+[**John Aziz**](https://www.linkedin.com/in/john0isaac/) लाई सबै GitHub Actions र workflows सिर्जना गरेकोमा विशेष धन्यवाद।
+
+[**Bernhard Merkle**](https://www.linkedin.com/in/bernhard-merkle-738b73/) लाई प्रत्येक पाठमा महत्वपूर्ण योगदान पुर्‍याएर सिक्ने र कोड अनुभव सुधार गर्न सहयोग गरेकोमा धन्यवाद। 
+
+## 🎒 अन्य पाठ्यक्रमहरू
+
+हाम्रो टिमले अन्य पाठ्यक्रमहरू उत्पादन गर्दछ! हेर्नुहोस्:
+
+### Azure / Edge / MCP / एजेन्टहरू
+[![AZD for Beginners](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI for Beginners](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP for Beginners](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI Agents for Beginners](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### जनरेटिभ AI श्रृंखला
+[![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### मुख्य सिकाइ
+[![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Cybersecurity for Beginners](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![वेब विकासको लागि शुरुवात](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![शुरुवातको लागि IoT](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![शुरुवातको लागि XR विकास](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Copilot श्रृंखला
+[![AI जोडी प्रोग्रामिङको लागि Copilot](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![C#/.NET को लागि Copilot](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Copilot साहसिक यात्रा](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+
+## सहयोग प्राप्त गर्ने तरिका
+
+यदि तपाईं अड्किनुहुन्छ वा AI एप्स निर्माणको बारेमा कुनै प्रश्न छ भने, सामेल हुनुहोस्:
+
+[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord?WT.mc_id=academic-105485-koreyst)
+
+यदि तपाईंलाई उत्पादनको प्रतिक्रिया दिनु छ वा निर्माणको क्रममा त्रुटिहरू छन् भने, भ्रमण गर्नुहोस्:
+
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum?WT.mc_id=academic-105485-koreyst)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**अस्वीकरण**:  
+यो दस्तावेज AI अनुवाद सेवा [Co-op Translator](https://github.com/Azure/co-op-translator) प्रयोग गरेर अनुवाद गरिएको छ। हामी शुद्धताको लागि प्रयास गर्छौं, तर कृपया ध्यान दिनुहोस् कि स्वचालित अनुवादमा त्रुटिहरू वा अशुद्धताहरू हुन सक्छ। यसको मूल भाषा मा रहेको दस्तावेजलाई आधिकारिक स्रोत मानिनुपर्छ। महत्वपूर्ण जानकारीको लागि, व्यावसायिक मानव अनुवाद सिफारिस गरिन्छ। यस अनुवादको प्रयोगबाट उत्पन्न हुने कुनै पनि गलतफहमी वा गलत व्याख्याको लागि हामी जिम्मेवार हुने छैनौं।
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

@@ -1,6 +1,6 @@
 # Designing UX for AI Applications
 
-[![Designing UX for AI Applications](./images/12-lesson-banner.png?WT.mc_id=academic-105485-koreyst)](https://aka.ms/gen-ai-lesson12-gh?WT.mc_id=academic-105485-koreyst)
+[![Designing UX for AI Applications](./images/12-lesson-banner.png?WT.mc_id=academic-105485-koreyst)](https://youtu.be/VKbCejSICA8?si=MKj7GQYHfXRZyWW6)
 
 > _(Click the image above to view video of this lesson)_
 
@@ -118,3 +118,4 @@ Take any AI apps you've built so far, consider implementing the below steps in y
 After completing this lesson, check out our [Generative AI Learning collection](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst) to continue leveling up your Generative AI knowledge!
 
 Head over to Lesson 13, where we will look at how to [securing AI applications](../13-securing-ai-applications/README.md?WT.mc_id=academic-105485-koreyst)!
+
